@@ -1,0 +1,8 @@
+#Successful Tests
+#Mon Dec 11 14:35:04 CET 2017
+gbt.DataSpec=1512999289123
+gbt.LossSpec=1512999289123
+gbt.DecisionSpec=1512999289122
+gbt.LearnerSpec=1512999304199
+gbt.GradientBoostingSpec=1512999289227
+gbt.DecisionTreeSpec=1512999289123
