@@ -79,7 +79,7 @@ $$O^t = (L(y, \hat{y}^{t - 1}) + g_i * f(x) + \frac{1}{2} * h_i * f(x)^2) + \Ome
 
 Assuming a decision tree base classifier we can use the example regularization above and the objective becomes:
 
-$$O^t = (L(y, \hat{y}^{t - 1}) + g_i * f(x) + \frac{1}{2} * h_i * f(x)^2) + \gamma T \frac{1}{2}\sum_i \lambda * ||\theta_i||_2$.
+$$O^t = (L(y, \hat{y}^{t - 1}) + g_i * f(x) + \frac{1}{2} * h_i * f(x)^2) + \gamma T \frac{1}{2}\sum_i \lambda * ||\theta_i||_2$$
 
 With a few transformations, we can redefine the loss in a way we can directly optimize the function
 with the standard CART learning algorithm. 
