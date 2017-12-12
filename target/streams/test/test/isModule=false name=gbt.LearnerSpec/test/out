@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mLearnerSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mThe learner[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should classify the reduced Iris dataset 100%[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mThe learner[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should classify the reduced Sonar dataset 80%[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mThe learner[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should regress on a sin function[0m[0m
